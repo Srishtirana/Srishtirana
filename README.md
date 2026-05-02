@@ -5,7 +5,7 @@ CS student. I like building things that look good and feel human — from fronte
 to poking around with AWS and Docker on the cloud side. Curious by default, creative when 
 it counts, still figuring out the rest as I go.
 
-Currently looking fordiffernent opportunities — I've built everything from AI-powered crop 
+Currently looking for differnent opportunities — I've built everything from AI-powered crop 
 tools to e-commerce sites to exam predictors. I learn fast, break things, then fix them (usually).
 
 ---
