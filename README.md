@@ -24,19 +24,12 @@ I'm a developer who likes turning ideas into things that actually work. Currentl
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Srishtirana&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Srishtirana&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 📬 Let's connect
 
 I'm actively looking for opportunities — frontend, full-stack, or anything interesting.
 
-[📧 Email](srishti.rana.cse@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/srishti-rana-611628283/) • [🌐 Portfolio](https://portfolio-one-self-38.vercel.app/)
+[📧 Email](mailto:srishti.rana.cse@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/srishti-rana-611628283/) • [🌐 Portfolio](https://portfolio-one-self-38.vercel.app/)
 
 ---
 
