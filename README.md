@@ -1,14 +1,25 @@
-# Hey, I'm Srishti Rana:)
-
+# Hey, I'm Srishti Rana :)
 > Building stuff on the internet • Open to opportunities
 
-I'm a developer who likes turning ideas into things that actually work. Currently looking for my first full-time role — I've built everything from AI-powered crop tools to e-commerce sites to exam predictors. I learn fast, break things, then fix them (usually).
+CS student. I like building things that look good and feel human — from frontend interfaces 
+to poking around with AWS and Docker on the cloud side. Curious by default, creative when 
+it counts, still figuring out the rest as I go.
+
+Currently looking fordiffernent opportunities — I've built everything from AI-powered crop 
+tools to e-commerce sites to exam predictors. I learn fast, break things, then fix them (usually).
 
 ---
 
 ## 🛠 What I work with
 
-`HTML/CSS` `TypeScript` `JavaScript` `Python` `React` `Tailwind` `AWS` `Docker`
+**Frontend**
+`HTML/CSS` `TypeScript` `JavaScript` `React` `Tailwind`
+
+**Backend & Languages**
+`Python` `Node.js`
+
+**Cloud & DevOps**
+`AWS` `Docker`
 
 ---
 
@@ -24,13 +35,21 @@ I'm a developer who likes turning ideas into things that actually work. Currentl
 
 ---
 
+## ☁️ Cloud & DevOps
+
+Explored AWS services and containerisation with Docker —
+deploying apps, managing environments, and getting comfortable
+with the "it works on my machine" problem (Docker fixes that, mostly).
+
+---
+
 
 ## 📬 Let's connect
 
-I'm actively looking for opportunities — frontend, full-stack, or anything interesting.
+I'm actively looking for opportunities — frontend, full-stack, on cloud computing or anything interesting.
 
 [📧 Email](mailto:srishti.rana.cse@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/srishti-rana-611628283/) • [🌐 Portfolio](https://portfolio-one-self-38.vercel.app/)
 
 ---
 
-*Open to internships , full-time roles, and collabs. If you've read this far — hi 👋*
+*Open to internships, full-time roles, and collabs. If you've read this far — hi 👋*
