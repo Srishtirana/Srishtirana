@@ -1,4 +1,4 @@
-# Hey, I'm Srishti Rana👋
+# Hey, I'm Srishti Rana:)
 
 > Building stuff on the internet • Open to opportunities
 
